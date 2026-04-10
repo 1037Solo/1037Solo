@@ -1,5 +1,7 @@
 # 1037Solo
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 Official GitHub profile repository for the 1037Solo team.
 
 ## Mission

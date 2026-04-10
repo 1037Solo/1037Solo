@@ -1,5 +1,7 @@
 # 1037Solo Public Changelog
 
+[English](./CHANGELOG.md) | [简体中文](./CHANGELOG.zh-CN.md)
+
 All notable public-facing updates for the 1037Solo profile repository are documented here.
 
 ## 2026-04

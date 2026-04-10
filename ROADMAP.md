@@ -1,5 +1,7 @@
 # 1037Solo Public Roadmap
 
+[English](./ROADMAP.md) | [简体中文](./ROADMAP.zh-CN.md)
+
 This document tracks high-level external priorities for the 1037Solo ecosystem.
 
 ## Operating Principle
