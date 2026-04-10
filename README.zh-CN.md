@@ -6,9 +6,9 @@
 
 ## 使命
 
-1037Solo 致力于构建面向学习、知识工作与学术效率提升的 AI 原生产品。
+1037Solo 致力于构建聚焦学习场景、学术效率与学生知识工作流的 AI 原生产品。
 
-我们的目标是帮助学生、教师与知识工作者从信息过载走向结构化理解与持续成长。
+我们的目标是帮助学生把碎片信息转化为结构化理解、可执行产出与长期学习成长。
 
 ## 本仓库定位
 
@@ -25,16 +25,21 @@
 
 | 产品 | 定位 | 状态 | 公开仓库 |
 |---|---|---|---|
-| `StudySolo` | AI 学习工作流平台 | Active | [AIMFllys/StudySolo-Dev](https://github.com/AIMFllys/StudySolo-Dev) |
+| `StudySolo` | AI 学习工作流与 Agent 协同执行平台 | Active | [AIMFllys/StudySolo-Dev](https://github.com/AIMFllys/StudySolo-Dev) |
 | `Platform` | 智能搜索、AI 对话与资源聚合 | Active | 私有内部仓库 |
-| `Docs` | 官方文档体验 | Active | 私有内部仓库 |
+| `Docs` | 官方项目文档站 | Active | 私有内部仓库 |
 
 ## 官方链接
 
 - 官网：[https://1037solo.com](https://1037solo.com)
 - Platform：[https://platform.1037solo.com](https://platform.1037solo.com)
 - StudySolo：[https://studyflow.1037solo.com](https://studyflow.1037solo.com)
+- 文档站：[https://docs.1037solo.com](https://docs.1037solo.com)
 - GitHub 主页仓库：[https://github.com/1037Solo/1037Solo](https://github.com/1037Solo/1037Solo)
+
+## 联系方式
+
+- 技术支持邮箱：[support@1037solo.com](mailto:support@1037solo.com)
 
 ## 开源与协作
 
@@ -43,6 +48,14 @@
 - 核心公开开发仓库：[AIMFllys/StudySolo-Dev](https://github.com/AIMFllys/StudySolo-Dev)
 
 如需生态合作、学术共建或其他协作，请在本仓库发起 Issue。
+
+## 平台能力开放方向
+
+1037Solo 将逐步开放部分平台能力：
+
+- 面向集成场景的 API；
+- 面向开发工作流的 CLI 工具；
+- 面向 AI 原生工具链与 Agent 生态的 MCP 兼容能力。
 
 ## 治理与更新节奏
 
@@ -58,7 +71,9 @@
 
 ## 法律说明
 
-1037Solo 为独立开发与运营团队。文中涉及高校或公共学术资源的内容仅用于场景说明与导航，不构成官方归属关系声明。
+1037Solo 为来自华中科技大学（HUST）成员的独立开发团队。
+
+本项目与华中科技大学及其任何官方机构不存在隶属、授权或背书关系。文中涉及高校或公共学术资源的内容仅用于场景说明与导航。
 
 ---
 

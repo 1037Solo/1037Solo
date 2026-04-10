@@ -12,21 +12,21 @@ This document tracks high-level external priorities for the 1037Solo ecosystem.
 
 ## Now (Current Quarter)
 
-- Finalize official GitHub profile repository as a canonical public entry.
-- Continue iterative delivery for learning-oriented AI workflows in StudySolo.
-- Improve consistency of product communication across website and repositories.
+- Improve StudySolo to better represent real learning empowerment through measurable workload and practical study outcomes.
+- Deepen integration with AI Agents for planning, execution, and feedback loops in learning workflows.
+- Start progressive opening plans for API, CLI, and MCP capabilities.
 
 ## Next (1-2 Quarters)
 
-- Expand learning-focused feature sets and workflow templates.
-- Strengthen documentation and onboarding for users and collaborators.
-- Improve cross-product governance standards for updates and releases.
+- Launch and validate a next-generation AI note-taking product focused on lecture pain points.
+- Solve classroom capture, key-point extraction, and post-class review through multi-dimensional workflows.
+- Strengthen product documentation and onboarding through [https://docs.1037solo.com](https://docs.1037solo.com).
 
 ## Later (2+ Quarters)
 
-- Broaden the ecosystem with additional learning-centric products.
-- Evolve collaboration mechanisms for community and partner participation.
-- Establish a more mature public engineering and release cadence.
+- Continue expanding the main 1037Solo platform around student daily needs and campus learning life.
+- Introduce modules such as cafeteria atlas, 1037wiki, latest major-specific updates, and community/forum capabilities.
+- Build a long-term ecosystem that empowers every HUSTer with practical, trustworthy campus intelligence.
 
 ## Update Policy
 
