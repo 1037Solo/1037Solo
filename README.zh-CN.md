@@ -32,7 +32,7 @@
 | **AISolo** | 智能体 AI 平台，打造个人专属流程数字分身 | Active | [platform.1037solo.com](https://platform.1037solo.com) |
 | **Classolo** | 一站式上课赋能平台，串联笔记、复习与本质思考 | Active | [classolo.1037solo.com](https://classolo.1037solo.com) |
 | **KitSolo** | 一站式常用工具箱——极速、可靠、必备 | Active | [kitsolo.1037solo.com](https://kitsolo.1037solo.com) |
-| **OneThingSolo** | 万物百科图谱——输入事物，了解其前世今生 | Active | [onethingsolo.com](https://onethingsolo.com) |
+| **OneThingSolo** | 万物百科图谱——输入事物，了解其前世今生 | Active | [onething.1037solo.com](https://onething.1037solo.com) |
 | **1037Solo Nav** | 学习资源汇聚导航平台与检索系统 | Paused | [nav.1037solo.com](https://nav.1037solo.com) |
 | **Docs** | 官方项目文档站 | Active | [docs.1037solo.com](https://docs.1037solo.com) |
 
@@ -49,7 +49,7 @@
 - StudySolo：[https://studyflow.1037solo.com](https://studyflow.1037solo.com)
 - Classolo：[https://classolo.1037solo.com](https://classolo.1037solo.com)
 - KitSolo：[https://kitsolo.1037solo.com](https://kitsolo.1037solo.com)
-- OneThingSolo：[https://onethingsolo.com](https://onethingsolo.com)
+- OneThingSolo：[https://onething.1037solo.com](https://onething.1037solo.com)
 - 文档站：[https://docs.1037solo.com](https://docs.1037solo.com)
 - GitHub 主页仓库：[https://github.com/1037Solo/1037Solo](https://github.com/1037Solo/1037Solo)
 

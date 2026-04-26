@@ -27,7 +27,7 @@ This policy applies to:
 
 - This profile repository (`1037Solo/1037Solo`);
 - All public repositories under the 1037Solo organization;
-- All 1037Solo web services (*.1037solo.com, onethingsolo.com).
+- All 1037Solo web services (*.1037solo.com).
 
 ### Recognition
 

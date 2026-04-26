@@ -32,7 +32,7 @@ It is not used as a feature development repository.
 | **AISolo** | AI agent platform for building personal digital workflow assistants | Active | [platform.1037solo.com](https://platform.1037solo.com) |
 | **Classolo** | All-in-one lecture empowerment platform for note-taking, review, and deep thinking | Active | [classolo.1037solo.com](https://classolo.1037solo.com) |
 | **KitSolo** | All-in-one utility toolbox — fast, reliable, and essential tools | Active | [kitsolo.1037solo.com](https://kitsolo.1037solo.com) |
-| **OneThingSolo** | Universal knowledge graph — explore the full story of anything | Active | [onethingsolo.com](https://onethingsolo.com) |
+| **OneThingSolo** | Universal knowledge graph — explore the full story of anything | Active | [onething.1037solo.com](https://onething.1037solo.com) |
 | **1037Solo Nav** | Learning resource aggregation and navigation platform | Paused | [nav.1037solo.com](https://nav.1037solo.com) |
 | **Docs** | Official project documentation site | Active | [docs.1037solo.com](https://docs.1037solo.com) |
 
@@ -49,7 +49,7 @@ It is not used as a feature development repository.
 - StudySolo: [https://studyflow.1037solo.com](https://studyflow.1037solo.com)
 - Classolo: [https://classolo.1037solo.com](https://classolo.1037solo.com)
 - KitSolo: [https://kitsolo.1037solo.com](https://kitsolo.1037solo.com)
-- OneThingSolo: [https://onethingsolo.com](https://onethingsolo.com)
+- OneThingSolo: [https://onething.1037solo.com](https://onething.1037solo.com)
 - Documentation: [https://docs.1037solo.com](https://docs.1037solo.com)
 - GitHub profile repo: [https://github.com/1037Solo/1037Solo](https://github.com/1037Solo/1037Solo)
 
