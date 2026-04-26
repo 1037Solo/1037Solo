@@ -4,21 +4,36 @@
 
 All notable public-facing updates for the 1037Solo profile repository are documented here.
 
+This changelog follows [Keep a Changelog](https://keepachangelog.com/) conventions.
+
 ## 2026-04
 
 ### Added
-- Established the official GitHub profile repository baseline.
-- Added a structured `README.md` for mission, product portfolio, links, and governance.
-- Added `ROADMAP.md` to communicate quarter-level external direction.
-- Added this `CHANGELOG.md` to maintain a transparent update history.
+- Launched **Classolo** — all-in-one lecture empowerment platform for note-taking, review, and deep thinking.
+- Launched **KitSolo** — all-in-one utility toolbox with fast, reliable, and essential tools.
+- Launched **OneThingSolo** — universal knowledge graph for exploring the full story of anything.
+- Rebranded Platform to **AISolo** — AI agent platform for building personal digital workflow assistants.
+- Added `CONTRIBUTING.md` with contribution guidelines for external collaborators.
+- Added `SECURITY.md` with vulnerability reporting policy.
+- Added `CODE_OF_CONDUCT.md` based on Contributor Covenant.
+- Added `LICENSE` (MIT License).
+- Added GitHub Issue and Pull Request templates.
+- Added `FUNDING.yml` for sponsorship information.
 
 ### Updated
-- Added official documentation portal link: [https://docs.1037solo.com](https://docs.1037solo.com).
-- Added support contact channel: [support@1037solo.com](mailto:support@1037solo.com).
-- Refined quarterly roadmap with StudySolo learning-impact priorities, AI Agents direction, and progressive API/CLI/MCP opening plan.
-- Added roadmap signal for an upcoming AI note-taking product focused on lecture pain points.
-- Expanded long-term platform direction with cafeteria atlas, 1037wiki, major-specific updates, and community/forum capability.
+- Expanded product portfolio from 3 to 7 entries (6 active + 1 paused).
+- Updated `README.md` with complete product matrix, all official links, and governance table.
+- Updated `ROADMAP.md` to reflect Q2 2026 priorities with concrete product launch milestones.
+- Added official links for Classolo, KitSolo, and OneThingSolo.
 - Strengthened legal wording to clearly state independent operation and non-affiliation with university authorities.
+
+### Infrastructure
+- Established the official GitHub profile repository baseline.
+- Added structured `README.md` for mission, product portfolio, links, and governance.
+- Added `ROADMAP.md` to communicate quarter-level external direction.
+- Added this `CHANGELOG.md` to maintain a transparent update history.
+- Added official documentation portal link: [docs.1037solo.com](https://docs.1037solo.com).
+- Added support contact channel: [support@1037solo.com](mailto:support@1037solo.com).
 
 ## Changelog Policy
 
