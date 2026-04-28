@@ -9,22 +9,24 @@
 ## 2026-04
 
 ### 新增
-- 上线 **Classolo** — 一站式上课赋能平台，串联笔记、复习与本质思考。
-- 上线 **KitSolo** — 一站式常用工具箱，极速、可靠、必备。
-- 上线 **OneThingSolo** — 万物百科图谱，输入事物了解其前世今生。
-- Platform 品牌升级为 **AISolo** — 智能体 AI 平台，打造个人专属流程数字分身。
+- 公布 **Classolo** 产品规划 — 一站式上课赋能平台，串联笔记、复习与本质思考。计划 5 月启动集中开发。
+- 公布 **KitSolo** 产品规划 — 一站式常用工具箱，极速、可靠、必备。准备阶段。
+- 公布 **OneThingSolo** 产品规划 — 万物百科图谱，输入事物了解其前世今生。准备阶段。
+- Platform 品牌升级为 **AISolo** — 智能体 AI 平台，打造个人专属流程数字分身。当前内测中。
 - 新增 `CONTRIBUTING.md` 贡献指南。
 - 新增 `SECURITY.md` 安全漏洞报告策略。
 - 新增 `CODE_OF_CONDUCT.md` 行为准则（基于 Contributor Covenant）。
 - 新增 `LICENSE`（MIT 许可证）。
 - 新增 GitHub Issue 与 Pull Request 模板。
 - 新增 `FUNDING.yml` 赞助信息。
+- 新增 `SPONSORS.md` 赞助层级与致谢说明。
+- 新增运营透明度公告，同步自官方落地页。
 
 ### 更新
-- 产品矩阵从 3 个扩展至 7 个（6 个活跃 + 1 个暂停）。
-- 更新 `README.md`，补充完整产品矩阵、全部官方链接与治理表格。
-- 更新 `ROADMAP.md`，反映 2026 Q2 优先级与具体产品上线里程碑。
-- 新增 Classolo、KitSolo、OneThingSolo 的官方链接。
+- 产品矩阵从 3 个扩展至 7 个（2 个内测、3 个策划中、1 个暂停、1 个运营中）。
+- 更新 `README.md`，修正产品状态矩阵，补充全部官方链接与治理表格。
+- 更新 `ROADMAP.md`，反映 2026 Q2–Q4 的真实时间线与诚实的产品阶段里程碑。
+- 预留 Classolo、KitSolo、OneThingSolo 的官方子域名。
 - 强化法律声明，明确团队独立运营且与高校官方机构无隶属关系。
 
 ### 基础设施

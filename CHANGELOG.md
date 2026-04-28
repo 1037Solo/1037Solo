@@ -9,22 +9,24 @@ This changelog follows [Keep a Changelog](https://keepachangelog.com/) conventio
 ## 2026-04
 
 ### Added
-- Launched **Classolo** — all-in-one lecture empowerment platform for note-taking, review, and deep thinking.
-- Launched **KitSolo** — all-in-one utility toolbox with fast, reliable, and essential tools.
-- Launched **OneThingSolo** — universal knowledge graph for exploring the full story of anything.
-- Rebranded Platform to **AISolo** — AI agent platform for building personal digital workflow assistants.
+- Announced product plans for **Classolo** — all-in-one lecture empowerment platform for note-taking, review, and deep thinking. Development begins May 2026.
+- Announced product plans for **KitSolo** — all-in-one utility toolbox with fast, reliable, and essential tools. In preparation.
+- Announced product plans for **OneThingSolo** — universal knowledge graph for exploring the full story of anything. In preparation.
+- Rebranded Platform to **AISolo** — AI agent platform for building personal digital workflow assistants. Currently in closed beta.
 - Added `CONTRIBUTING.md` with contribution guidelines for external collaborators.
 - Added `SECURITY.md` with vulnerability reporting policy.
 - Added `CODE_OF_CONDUCT.md` based on Contributor Covenant.
 - Added `LICENSE` (MIT License).
 - Added GitHub Issue and Pull Request templates.
 - Added `FUNDING.yml` for sponsorship information.
+- Added `SPONSORS.md` with sponsorship tiers and acknowledgments.
+- Added operational transparency notice synced from the official landing page.
 
 ### Updated
-- Expanded product portfolio from 3 to 7 entries (6 active + 1 paused).
-- Updated `README.md` with complete product matrix, all official links, and governance table.
-- Updated `ROADMAP.md` to reflect Q2 2026 priorities with concrete product launch milestones.
-- Added official links for Classolo, KitSolo, and OneThingSolo.
+- Expanded planned product portfolio from 3 to 7 entries (2 in beta, 3 in planning, 1 paused, 1 active).
+- Updated `README.md` with accurate product status matrix, all official links, and governance table.
+- Updated `ROADMAP.md` to reflect realistic Q2–Q4 2026 timeline with honest product stage milestones.
+- Reserved official subdomains for Classolo, KitSolo, and OneThingSolo.
 - Strengthened legal wording to clearly state independent operation and non-affiliation with university authorities.
 
 ### Infrastructure

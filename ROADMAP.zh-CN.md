@@ -10,26 +10,43 @@
 - 产品边界清晰明确；
 - 持续交付可衡量的用户价值。
 
+## 当前状态（截至 2026 年 4 月）
+
+| 产品 | 状态 | 说明 |
+|---|---|---|
+| **StudySolo** | Beta（内测） | 内测进行中 |
+| **AISolo** | Beta（内测） | 内测进行中 |
+| **Classolo** | Planning（策划中） | 5 月集中开发 |
+| **KitSolo** | Planning（策划中） | 准备阶段 |
+| **OneThingSolo** | Planning（策划中） | 准备阶段 |
+| **1037Solo Nav** | Paused（暂停） | 暂缓推进 |
+| **Docs** | Active（运营中） | 持续维护 |
+
 ## 现在（2026 Q2）
 
-- 产品矩阵扩展至六个活跃产品，覆盖学习工作流、上课赋能、AI 智能体、工具箱与知识探索。
+- 运营 StudySolo 与 AISolo 内测，收集用户反馈并迭代核心工作流。
+- 5 月集中启动 Classolo 开发，聚焦课堂笔记与复习工作流。
+- 推进 KitSolo 与 OneThingSolo 的策划与早期原型设计。
 - 整合 AISolo（原 Platform）为统一的 AI 智能体平台，集成搜索、对话与资源聚合。
-- 上线 Classolo，面向课堂笔记、复习与深度思考工作流。
-- 上线 KitSolo，提供极速可靠的日常工具箱。
-- 上线 OneThingSolo，构建万物百科图谱，输入事物了解其前世今生。
 - 深化 StudySolo 的 AI Agent 融合，提升学习工作流中的规划、执行与反馈能力。
+
+## 下一步（2026 Q3 — 暑假期间）
+
+- 逐步推进 KitSolo、OneThingSolo 等产品的开发。
+- 继续 Classolo 开发，推进至功能完备状态。
+- 根据反馈扩大 StudySolo 与 AISolo 的内测范围。
 - 启动 API、CLI、MCP 的渐进开放规划。
-
-## 下一步（2026 Q3–Q4）
-
-- 强化 Solo 生态内各产品的交叉整合。
-- 扩展 Classolo 的多模态课堂采集、重点提炼与课后复盘能力。
-- 在 AISolo 中引入高级 Agent 模板与工作流自动化。
 - 通过 [docs.1037solo.com](https://docs.1037solo.com) 强化文档与上手引导。
+
+## 之后（2026 Q4 — 秋季开学后）
+
+- 目标：Classolo、KitSolo、OneThingSolo 正式公开发布。
+- 强化 Solo 生态内各产品的交叉整合。
+- 在 AISolo 中引入高级 Agent 模板与工作流自动化。
 - 启动 API 内测接入，面向选定的集成合作伙伴。
 - 探索面向开发工作流的 CLI 工具，支持文档同步与云环境配置。
 
-## 后续（2027+）
+## 远期（2027+）
 
 - 持续深耕 1037Solo 平台，覆盖更多校园学习与生活场景。
 - 逐步引入食堂图鉴、1037wiki、各专业最新资讯与论坛能力。
